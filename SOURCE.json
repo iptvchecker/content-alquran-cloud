@@ -38,7 +38,13 @@
       "httpLastModified": null,
       "etag": "3e3c568414332008a2e24a74112512d5",
       "publisherPublicationDate": null,
-      "contentModified": false
+      "contentModified": false,
+      "originalPublisherUsageReference": {
+        "url": "https://qurancomplex.gov.sa/en/techquran/dev/",
+        "publisher": "King Fahd Glorious Quran Printing Complex",
+        "scope": "The official Tafseer Muyassar section supplies its content for developers, researchers and publishers to use in desktop, mobile, browser applications and research. Original attribution and publisher conditions remain applicable; no public-domain claim is made.",
+        "reviewedDate": "2026-10-08"
+      }
     }
   ]
 }
