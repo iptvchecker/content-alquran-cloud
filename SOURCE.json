@@ -1,0 +1,44 @@
+{
+  "publisher": "Al Quran Cloud / Islamic Network",
+  "permissionURL": "https://alquran.cloud/terms-and-conditions",
+  "artifacts": [
+    {
+      "file": "en.pickthall-2026-10-08.json",
+      "sourceURL": "https://api.alquran.cloud/v1/quran/en.pickthall",
+      "edition": {
+        "identifier": "en.pickthall",
+        "language": "en",
+        "name": "Pickthall",
+        "englishName": "Mohammed Marmaduke William Pickthall",
+        "format": "text",
+        "type": "translation"
+      },
+      "bytes": 1577671,
+      "sha256": "e731d9bce22575faba22b1f3de21c18b647711c33de074b89fe8d6f8384b01c5",
+      "retrievedAt": "2026-10-08T19:01:34.489320+00:00",
+      "httpLastModified": null,
+      "etag": "d47c0d76a8c2bea000eac7fd480efe36",
+      "publisherPublicationDate": null,
+      "contentModified": false
+    },
+    {
+      "file": "ar.muyassar-2026-10-08.json",
+      "sourceURL": "https://api.alquran.cloud/v1/quran/ar.muyassar",
+      "edition": {
+        "identifier": "ar.muyassar",
+        "language": "ar",
+        "name": "تفسير المیسر",
+        "englishName": "King Fahad Quran Complex",
+        "format": "text",
+        "type": "tafsir"
+      },
+      "bytes": 3249863,
+      "sha256": "e409898887a10a92de554b364c12c56a59b9030f2b07df94578040af234b7153",
+      "retrievedAt": "2026-10-08T19:01:35.192649+00:00",
+      "httpLastModified": null,
+      "etag": "3e3c568414332008a2e24a74112512d5",
+      "publisherPublicationDate": null,
+      "contentModified": false
+    }
+  ]
+}
