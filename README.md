@@ -10,8 +10,11 @@ These Islamic materials are mirrored for reuse, with no ownership claim, content
 editing, or removal of publisher/translator attribution. No audio is mirrored here.
 Source validators and exact SHA-256 hashes are retained in SOURCE.json and
 CHECKSUMS.sha256. Retrieval dates are not presented as original publication dates.
-Downloads from this public repository require no credentials.
 
 Future changes must use new dated snapshots and a review branch. Never remove
 older files automatically when upstream deletes or changes a resource. Preserve
 app-pinned releases. App integration is a separate step; no app endpoint is changed.
+
+## Mirror documentation update — October 18, 2026
+
+Simplified the mirror description to focus on content, sources and file layout. Corrected the app name where needed. Original content files, provider metadata, notices, licenses, filenames and checksum records were not changed.
